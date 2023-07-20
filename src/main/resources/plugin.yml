@@ -1,0 +1,6 @@
+name: 'RobitMC-Plugin'
+version: '0.0.1'
+main: 'io.github.TheRoboDoc.robitmcplugin.RobitMcPlugin'
+description: 'Plugin that adds Robit to the server'
+author: 'RoboDoc'
+api-version: '1.20'
